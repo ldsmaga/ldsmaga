@@ -82,7 +82,7 @@
   <br>
   
   <a href="https://github.com/ldsmaga">
-    <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsmaga&layout=compact&langs_count=7&theme=dark"/>
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsmaga&layout=compact&langs_count=7&theme=dark"/>
   </a>
 
 
