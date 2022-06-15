@@ -1,8 +1,8 @@
 # Hey, I'm Leandro <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
     
-🔨 Currently working as a full stack web developer
+- 🔨 Currently working as a full stack web developer
     
- 🌱 Always looking for growth
+ - 🌱 Always looking for growth
   
   <hr>
   
