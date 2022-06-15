@@ -14,7 +14,8 @@
   - 🗃️ GitHub, GitLab, Bitbucket;
   - 🔐 cPanel, AWS;
   - 🖱️ WordPress;
-  - 📊 Jira, Cofluence, Trello;
+  - ⚛️ Atomic Design, MVC, OOP;
+  - 📊 Jira, Confluence, Trello;
  
   <hr>
 
