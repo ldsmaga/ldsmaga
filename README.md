@@ -9,7 +9,7 @@
   - 💻 JavaScript, PHP, Java;
   - ⚙️ Vue.JS (Vuex, Vuetify, Nuxt), ReactJS (Redux, NextJS), Angular, Laravel, SpringBoot;
   - 🖌️ Bootstrap, ElementUI, Bulma;
-  - 🔍 MySQL, MariaSQL, MongoDB;
+  - 🔍 MySQL, MariaDB, MongoDB;
   - 📦 Docker, Kubernetes;
   - 🗃️ GitHub, GitLab, Bitbucket;
   - 🔐 cPanel, AWS;
