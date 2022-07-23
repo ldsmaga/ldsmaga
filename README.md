@@ -3,6 +3,8 @@
 - 🔨 Currently working as a full stack web developer
     
  - 🌱 Always looking for growth
+ 
+ - 🎯 Focusing on JavaScript
   
   <hr>
   
